@@ -1,4 +1,4 @@
-Cheetos
-Magnolia
-Alpha
-Omega
+- Cheetos
+* Magnolia
+  - Alpha
+1. Omega
